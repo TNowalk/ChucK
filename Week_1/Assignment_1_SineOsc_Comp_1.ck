@@ -1,8 +1,9 @@
 /*
   Assignment_1_SineOsc_Comp_1
   
-  30 Second composition to test knowledge of ChucK.  Plays a 
-  Major scale and a couple of Triads.
+  30 Second composition to test knowledge of ChucK as part of
+  the Introduction to Programming for Musicians and Digital Artists
+  course.  Plays a Major scale and a couple of Triads.
   
   @package ChucK
   @author Trevor Nowalk
